@@ -7,7 +7,7 @@ export const data = [
   },
   {
     id: 2,
-    logo: "logo mościcki.png",
+    logo: "logo-mościcki.png",
     title: "Hotel Mościcki",
     url: "http://www.hotelmoscicki.pl/",
   },
@@ -97,13 +97,13 @@ export const data = [
   },
   {
     id: 17,
-    logo: "CKKS.png",
+    logo: "ckks.png",
     title: "CKKS",
     url: "http://ckks.pl/",
   },
   {
     id: 18,
-    logo: "logo-MULTON.png",
+    logo: "Logo-MULTON.png",
     title: "Multon",
     url: "http://multon.pl/",
   },
